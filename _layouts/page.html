@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  {% include head.html %}
+</head>
+<body class="page-article">
+  {% include site-header.html %}
+
+  <main class="site-main site-main--narrow">
+    <article class="content">
+      {{ content }}
+    </article>
+
+    <div class="article-meta">
+      {% include lang-switch.html %}
+      <p class="back-link"><a href="{{ '/' | relative_url }}">← Back to entrance</a></p>
+    </div>
+  </main>
+
+  {% include site-footer.html %}
+</body>
+</html>

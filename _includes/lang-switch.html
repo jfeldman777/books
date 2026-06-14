@@ -1,0 +1,18 @@
+{% assign base = page.path | replace: '.md', '' %}
+{% assign pair = '' %}
+{% assign pair_label = '' %}
+
+{% if base contains '_en' %}
+  {% assign pair = base | replace: '_en', '_ru' %}
+  {% assign pair_label = 'Русский' %}
+{% elsif base contains '_ru' %}
+  {% assign pair = base | replace: '_ru', '_en' %}
+  {% assign pair_label = 'English' %}
+{% endif %}
+
+{% if pair != '' %}
+<nav class="lang-switch" aria-label="Language">
+  <span class="lang-switch__label">Also available:</span>
+  <a href="{{ pair | prepend: '/' | append: '/' | relative_url }}">{{ pair_label }}</a>
+</nav>
+{% endif %}

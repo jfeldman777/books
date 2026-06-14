@@ -1,3 +1,8 @@
+---
+layout: home
+title: Yakov Feldman
+---
+
 # Yakov Feldman
 
 ## Toward a Science of Persons, Tasks, and Communities

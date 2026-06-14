@@ -1,0 +1,30 @@
+title: Yakov Feldman
+description: Toward a science of persons, tasks, and communities
+author: Yakov Feldman
+url: "https://jfeldman777.github.io"
+baseurl: "/books"
+lang: en
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  relative_links:
+    enabled: true
+    config: all
+
+permalink: /:name/
+
+defaults:
+  - scope:
+      path: "index.md"
+    values:
+      layout: home
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
