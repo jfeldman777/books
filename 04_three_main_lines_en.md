@@ -52,13 +52,15 @@ And this is only a part of the possible applications.
 
 ## 3. The Student At The Exam: Warming-Up, Encodings, Levels
 
+We want to study the human being: to understand what is inside. How can this be done?
+
 If we want to understand how the object we are studying is structured internally, physicists have a special recipe for this: act on the object many times in the same way.
 
 For example, Rutherford, in order to understand the structure of the atom, bombarded gold foil with alpha particles.
 
 We can do something similar. Put a student in an oral exam. The teacher gives him tasks one by one and observes what happens.
 
-This gives rise to the model of the task conveyor. The conveyor is not inside the student’s head. The conveyor is an external belt on which tasks arrive to the student. And we observe how he deals with them.
+This gives rise to the model of the task conveyor. The conveyor is not inside the student’s head. The conveyor is an external belt carrying tasks, just as Ford’s assembly line moved cars from one worker to another. And we observe how the student deals with them.
 
 We can then assume that many life situations are arranged in a similar way. A secretary checks email. A tennis player returns a serve. A lecturer answers questions after a lecture. A manager sorts through a stream of problems. A parent responds to a child’s requests.
 
@@ -82,9 +84,8 @@ In addition to the models of Warming-Up, Encodings, and Levels, we also have a m
 
 This model belongs to general psychology: how a human being solves tasks in general.
 
-The three models - Warming-Up, Encodings, and Levels - belong to differential psychology: they describe how people differ from one another and why one person deals with a task differently from another.
+The three models - Warming-Up, Encodings, and Levels - belong to differential psychology: they describe how people differ from one another and why one person solves a task better than another.
 
 At this point, one could stop. We have obtained a working scheme: a virtual world in which people, tasks, and communities meet in thought experiments, and three models that help predict these encounters: Warming-Up, Encodings, and Levels.
 
 But the main thing begins after this.
-
