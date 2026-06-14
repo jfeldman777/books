@@ -5,6 +5,10 @@ url: "https://jfeldman777.github.io"
 baseurl: "/books"
 lang: en
 
+# FormSubmit endpoint — set your email to receive feedback:
+# feedback_action: "https://formsubmit.co/your@email.com"
+feedback_action:
+
 markdown: kramdown
 kramdown:
   input: GFM

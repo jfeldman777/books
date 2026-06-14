@@ -1,0 +1,76 @@
+{% assign feedback_action = site.feedback_action | default: '' %}
+{% assign thanks_url = site.url | append: site.baseurl | append: '/?thanks=1' %}
+
+<section class="feedback" aria-labelledby="feedback-heading-en">
+  <div class="feedback__grid">
+    <form class="feedback__form" method="post" action="{{ feedback_action }}"{% unless feedback_action %} data-disabled="true"{% endunless %}>
+      <input type="hidden" name="_subject" value="Books site feedback (English)">
+      <input type="hidden" name="_next" value="{{ thanks_url }}">
+      <input type="hidden" name="language" value="en">
+      <input type="hidden" name="page" value="home">
+      <input type="text" name="_gotcha" class="feedback__honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+      <h2 class="feedback__title" id="feedback-heading-en">Where did you lose the thread?</h2>
+
+      <fieldset class="feedback__options">
+        <legend class="visually-hidden">Feedback options</legend>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="understood"> I understood the page</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="title_unclear"> The title was unclear</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="first_paragraph_unclear"> The first paragraph was unclear</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="main_idea_unclear"> The main idea was unclear</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="terms_unclear"> The terms were unclear</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="examples_missing"> The examples were missing</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="too_abstract"> The text became too abstract</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="why_matters_unclear"> I did not understand why this matters</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="want_more"> I want to read more</label>
+      </fieldset>
+
+      <label class="feedback__field">
+        <span class="feedback__label">One sentence, if you want:</span>
+        <input type="text" name="sentence" maxlength="500" autocomplete="off">
+      </label>
+
+      <label class="feedback__field">
+        <span class="feedback__label">Email, optional:</span>
+        <input type="email" name="email" maxlength="200" autocomplete="email">
+      </label>
+
+      <button class="feedback__submit" type="submit"{% unless feedback_action %} disabled{% endunless %}>Send feedback</button>
+    </form>
+
+    <form class="feedback__form" method="post" action="{{ feedback_action }}"{% unless feedback_action %} data-disabled="true"{% endunless %}>
+      <input type="hidden" name="_subject" value="Books site feedback (Russian)">
+      <input type="hidden" name="_next" value="{{ thanks_url }}">
+      <input type="hidden" name="language" value="ru">
+      <input type="hidden" name="page" value="home">
+      <input type="text" name="_gotcha" class="feedback__honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+      <h2 class="feedback__title" id="feedback-heading-ru">Где вы потеряли нить?</h2>
+
+      <fieldset class="feedback__options">
+        <legend class="visually-hidden">Варианты ответа</legend>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="understood"> Я понял страницу</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="title_unclear"> Непонятно название</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="first_paragraph_unclear"> Непонятен первый абзац</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="main_idea_unclear"> Непонятна главная мысль</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="terms_unclear"> Непонятны термины</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="examples_missing"> Не хватает примеров</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="too_abstract"> Текст стал слишком абстрактным</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="why_matters_unclear"> Непонятно, зачем это важно</label>
+        <label class="feedback__option"><input type="checkbox" name="issues[]" value="want_more"> Я хочу читать дальше</label>
+      </fieldset>
+
+      <label class="feedback__field">
+        <span class="feedback__label">Одна фраза, если хотите:</span>
+        <input type="text" name="sentence" maxlength="500" autocomplete="off">
+      </label>
+
+      <label class="feedback__field">
+        <span class="feedback__label">Email, необязательно:</span>
+        <input type="email" name="email" maxlength="200" autocomplete="email">
+      </label>
+
+      <button class="feedback__submit" type="submit"{% unless feedback_action %} disabled{% endunless %}>Отправить</button>
+    </form>
+  </div>
+</section>
