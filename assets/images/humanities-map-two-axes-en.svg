@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" role="img" aria-labelledby="title desc">
+  <title id="title">Map of the humanities: two axes, five domains, and FSHA</title>
+  <desc id="desc">A two-axis map: thinking to doing, I alone to we are many, with psychology, philosophy, education, everyday life, and history placed on the plane.</desc>
+  <rect width="760" height="540" fill="#eaf4ff"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#111827"/>
+    </marker>
+    <marker id="arrow-start" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M8,0 L8,6 L0,3 z" fill="#111827"/>
+    </marker>
+  </defs>
+
+  <line x1="80" y1="270" x2="680" y2="270" stroke="#111827" stroke-width="2.4" marker-start="url(#arrow-start)" marker-end="url(#arrow)"/>
+  <line x1="380" y1="48" x2="380" y2="492" stroke="#111827" stroke-width="2.4" marker-start="url(#arrow-start)" marker-end="url(#arrow)"/>
+
+  <text x="380" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111827">I alone</text>
+  <text x="380" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111827">we are many</text>
+  <text x="95" y="254" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111827">thinking</text>
+  <text x="665" y="254" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111827">doing</text>
+
+  <text x="380" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#ec4899">psychology</text>
+  <text x="380" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#ec4899">education</text>
+  <text x="85" y="304" text-anchor="start" font-family="Arial, sans-serif" font-size="22" fill="#ec4899">philosophy</text>
+  <text x="540" y="304" text-anchor="start" font-family="Arial, sans-serif" font-size="22" fill="#ec4899">everyday life</text>
+  <text x="380" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#ec4899">history</text>
+
+  <text x="190" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#3730ff">thinking</text>
+  <text x="560" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#3730ff">behavior</text>
+  <text x="190" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#3730ff">co-knowledge</text>
+  <text x="560" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#3730ff">interaction</text>
+</svg>

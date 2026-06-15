@@ -1,6 +1,6 @@
 # The Humanities: Two Axes, Five Domains, and FSHA
 
-![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes.png)
+![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes-en.svg)
 
 The map shows the relative position of problem domains. There are five such domains.
 
