@@ -17,6 +17,4 @@ No?
 
 Why not?
 
-This page is the entrance to a short presentation of my work.
-
 [Read further](02_start_here_en.md) / [Читать дальше](02_start_here_ru.md)

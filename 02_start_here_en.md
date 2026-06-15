@@ -39,7 +39,7 @@ For them, we build maps: the Personality Map, the Task Map, and the Group Map. T
 5. [Tuples of Concepts](03_discourse_map_en.md).
 6. [And Now the Surprise](05_surprise_en.md).
 
-If you want to read further, write to the author.
+If you want to read further, write about it to the author and leave your email address.
 
 ## What To Expect
 
