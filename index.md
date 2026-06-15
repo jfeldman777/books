@@ -19,26 +19,26 @@ Why not?
 
 This page is the entrance to a short presentation of my work.
 
-## English
+## Read in English
 
-1. [Brief Manifesto](01_manifesto_en.md)
-2. [Start Here](02_start_here_en.md)
+1. [A Brief Outline of the Ideas](01_manifesto_en.md)
+2. [The Model of the Person, the Task, and the Community](04_three_main_lines_en.md)
 3. [Tuples of Concepts](03_discourse_map_en.md)
-4. [Three Main Lines](04_three_main_lines_en.md)
-5. [And Now the Surprise](05_surprise_en.md)
-6. [Short Glossary](06_short_glossary.md)
+4. [And Now the Surprise](05_surprise_en.md)
+5. [A Short Glossary](06_short_glossary.md)
 
-## Русский
+The book **The Philosopher Twenty Years Later** is currently available in Russian.
 
-1. [Краткое изложение](01_manifesto_ru.md)
-2. [С чего начать](02_start_here_ru.md)
+## Читать по-русски
+
+1. [Краткое изложение идей](01_manifesto_ru.md)
+2. [Модель человека, задачи и сообщества](04_three_main_lines_ru.md)
 3. [Ряды понятий](03_discourse_map_ru.md)
-4. [Три главные линии](04_three_main_lines_ru.md)
-5. [А теперь сюрприз](05_surprise_ru.md)
-6. [Краткий словарь](06_short_glossary.md)
+4. [А теперь сюрприз](05_surprise_ru.md)
+5. [Краткий словарь](06_short_glossary.md)
 
-## Suggested Reading Order
+Книга **Философ 20 лет спустя** пока доступна на русском языке.
 
-For a first reading, start with **Start Here / С чего начать**, then read **Three Main Lines / Три главные линии**, and only after that open the glossary.
+## Further Reading
 
-The manifesto gives the shortest general outline. The discourse map shows the internal order of the concepts. The surprise section explains why the model of Levels became the central discovery of the whole project.
+If you want to read further, write to the author.
