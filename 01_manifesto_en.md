@@ -31,7 +31,7 @@ The strength of the natural sciences lies not only in equipment and experiments,
 
 I apply this principle to the study of human beings. For this, three basic models are needed: the person, the task, and the group.
 
-A person reveals himself through tasks. If a person solves a task, that is one event; if he fails to solve it, another; if he refuses to solve it, a third. A task places demands on a person. If the person can meet those demands, then he has the corresponding ability.
+A person reveals himself through tasks. If a person solves a task, that is one event; if he fails to solve it, another; if he refuses to solve it, a third. A task places demands on a person. If the person can meet those demands, then he has the corresponding abilities.
 
 This leads to the central idea: the need of a task and the ability of a person describe the same reality from two sides.
 
