@@ -79,8 +79,8 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - macrosociology - microsociology
 - visual arts - artist - viewer - epoch
 - epoch - power - economy - styles - movements in art
-- aspects of thinking - [co-knowledge](06_short_glossary_en.md) - interaction
-- [main theorem - why levels are everywhere](05_surprise_en.md)
+- aspects of thinking - co-knowledge - interaction
+- main theorem - why levels are everywhere
 - Koval’s paradox - the mafia is not an army - science is not a sect
 - French Revolution - Reformation - European state
 - Russian state - core - facade
