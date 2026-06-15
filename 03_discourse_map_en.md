@@ -4,11 +4,11 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 1. Language And Philosophy
 
-- discourse - excursus - cosmos
-- eight rules of discussion
-- six definitions of philosophy
-- tradition - modernity - postmodernity - metamodernity
-- metaphilosophy - first philosophy - second philosophy - history of ideas
+- [discourse - excursus - cosmos](07_discourse_excursus_cosmos_en.md)
+- [eight rules of discussion](08_eight_rules_discussion_en.md)
+- [six definitions of philosophy](09_six_definitions_philosophy_en.md)
+- [tradition - modernity - postmodernity - metamodernity](11_postmodern_metamodern_en.md)
+- metaphilosophy - first philosophy - second philosophy - [history of ideas](12_euclid_hilbert_en.md)
 
 ## 2. Knowledge, Truth, The Ideal
 
@@ -19,7 +19,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - five components of knowledge and the procedure for evaluating truthfulness
 - external and internal criteria of quality
 - material - spiritual
-- map of the humanities: the axis “thinking - doing”, the axis “we are many - I alone”
+- [map of the humanities: the axis “thinking - doing”, the axis “we are many - I alone”](10_humanities_map_en.md)
 
 ## 3. History, Progress, Culture
 
@@ -34,20 +34,20 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 4. Human Being, Task, Group
 
-- FSHA: four-sided human activity: thinking - behavior - interaction - co-knowledge
+- [FSHA: four-sided human activity: thinking - behavior - interaction - co-knowledge](10_humanities_map_en.md)
 - five domains
-- task conveyor - nine psychic mechanisms
-- three weak points - three models
-- warming-up - encodings - levels
-- real world - virtual world
-- human being - task - community/group
-- prediction of encounters - optimization of behavior
+- [task conveyor](06_short_glossary_en.md) - nine psychic mechanisms
+- three weak points - [three models](06_short_glossary_en.md)
+- [warming-up - encodings - levels](06_short_glossary_en.md)
+- real world - [virtual world](06_short_glossary_en.md)
+- [person - task - community/group](04_three_main_lines_en.md)
+- [prediction of encounters - optimization of behavior](04_three_main_lines_en.md)
 - three frames of decision-making
 - substantial/real groups and formal/pseudo groups
 
 ## 5. Personality And Psychology
 
-- eight levels - two basic scales
+- [eight levels - two basic scales](05_surprise_en.md)
 - temperament - character - observable scales - warming-up curve
 - four warming-ups - four temperaments
 - one - two - three temperaments
@@ -69,8 +69,8 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 7. Education, Age, Development
 
-- eight ages of the child - age barriers
-- principle of recapitulation - history - maturation of the child
+- [eight ages of the child - age barriers](05_surprise_en.md)
+- [principle of recapitulation - history - maturation of the child](05_surprise_en.md)
 - abilities - needs - choice of educational system
 - ceiling principle - technogenic disasters - Chernobyl
 
@@ -79,10 +79,9 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - macrosociology - microsociology
 - visual arts - artist - viewer - epoch
 - epoch - power - economy - styles - movements in art
-- aspects of thinking - co-knowledge - interaction
-- main theorem - why levels are everywhere
+- aspects of thinking - [co-knowledge](06_short_glossary_en.md) - interaction
+- [main theorem - why levels are everywhere](05_surprise_en.md)
 - Koval’s paradox - the mafia is not an army - science is not a sect
 - French Revolution - Reformation - European state
 - Russian state - core - facade
 - Rogers-Moore curve and the optimal state
-
