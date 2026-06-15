@@ -1,5 +1,25 @@
 <footer class="site-footer">
   <div class="site-footer__inner">
+    <nav class="footer-nav" aria-label="Reading routes">
+      <div class="footer-nav__group">
+        <h2>Read</h2>
+        <a href="{{ '/01_manifesto_en/' | relative_url }}">Manifesto</a>
+        <a href="{{ '/02_start_here_en/' | relative_url }}">What Next</a>
+        <a href="{{ '/04_three_main_lines_en/' | relative_url }}">Model</a>
+        <a href="{{ '/03_discourse_map_en/' | relative_url }}">Tuples</a>
+        <a href="{{ '/05_surprise_en/' | relative_url }}">Surprise</a>
+        <a href="{{ '/06_short_glossary_en/' | relative_url }}">Glossary</a>
+      </div>
+      <div class="footer-nav__group">
+        <h2>Читать</h2>
+        <a href="{{ '/01_manifesto_ru/' | relative_url }}">Манифест</a>
+        <a href="{{ '/02_start_here_ru/' | relative_url }}">Что дальше</a>
+        <a href="{{ '/04_three_main_lines_ru/' | relative_url }}">Модель</a>
+        <a href="{{ '/03_discourse_map_ru/' | relative_url }}">Ряды</a>
+        <a href="{{ '/05_surprise_ru/' | relative_url }}">Сюрприз</a>
+        <a href="{{ '/06_short_glossary_ru/' | relative_url }}">Словарь</a>
+      </div>
+    </nav>
     <p>{{ site.author }} · {{ site.description }}</p>
     <p class="site-footer__note">Working models for persons, tasks, and communities.</p>
   </div>
