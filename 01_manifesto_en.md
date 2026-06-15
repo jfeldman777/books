@@ -25,26 +25,10 @@ It is precisely at these points that a person especially needs knowledge. But mo
 
 Moreover, almost all important decisions are made among people. Therefore, a good decision must take into account not only my goals, but also the needs, abilities, limitations, and possible reactions of other people.
 
-Here the humanities could help ordinary people right now. But for this they need a radical reconstruction according to the standards of the natural sciences.
+Here the humanities could help ordinary people right now.
 
-The strength of the natural sciences lies not only in equipment and experiments, but in method: model -> thought experiment -> prediction -> testing -> correction of the model.
+But for this they need a radical reconstruction according to the standards of the natural sciences: working models of the person, the task, and the community, a virtual world for thought experiments, and ways to predict the results of encounters.
 
-I apply this principle to the study of human beings. For this, three basic models are needed: the person, the task, and the group.
-
-A person reveals himself through tasks. If a person solves a task, that is one event; if he fails to solve it, another; if he refuses to solve it, a third. A task places demands on a person. If the person can meet those demands, then he has the corresponding abilities.
-
-This leads to the central idea: the need of a task and the ability of a person describe the same reality from two sides.
-
-In my theory there is a list of 25 needs-abilities. It is divided into three blocks:
-
-1. Time: four parameters.
-2. Information: eleven parameters.
-3. Complexity: ten parameters.
-
-These 25 parameters form a phase space in which persons, tasks, and groups can be described.
-
-For a person, we build a Personality Map. For a task, a Task Map. For a group, a Group Map. After that, we can do more than talk about people, tasks, and communities. We can predict how they will meet.
-
-In practical terms, this helps a person understand which tasks suit him, which tasks should be avoided, with whom dialogue and cooperation are possible, and in which communities he will be welcomed, useful, and understood.
+Then the humanities could help a person choose tasks, partners, communities, and strategies of behavior.
 
 But there are also indirect consequences, and they are much more serious.
