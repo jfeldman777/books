@@ -47,7 +47,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 5. Personality And Psychology
 
-- [eight levels - two basic scales](05_surprise_en.md)
+- eight levels - two basic scales
 - temperament - character - observable scales - warming-up curve
 - four warming-ups - four temperaments
 - one - two - three temperaments
