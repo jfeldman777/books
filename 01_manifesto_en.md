@@ -47,12 +47,4 @@ For a person, we build a Personality Map. For a task, a Task Map. For a group, a
 
 In practical terms, this helps a person understand which tasks suit him, which tasks should be avoided, with whom dialogue and cooperation are possible, and in which communities he will be welcomed, useful, and understood.
 
-But this is only the direct application. The model of complexity levels opens a wider picture: child development, human history, the study of subject areas, education, politics, culture, and philosophy can all be described in a shared language of levels.
-
-Such a reconstruction asks the central questions again: what knowledge is, what good and evil are, what social progress is, how education and the state should be organized, and how people can receive values, methods of choice, and tools of self-knowledge.
-
-These questions can be answered not only with words, but with models.
-
-My aim is a different philosophy, a different psychology, a different science of the human being.
-
-And therefore, perhaps, a different life.
+But there are also indirect consequences, and they are much more serious.
