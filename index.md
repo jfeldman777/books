@@ -7,11 +7,17 @@ title: Yakov Feldman
 
 ## Toward a Science of Persons, Tasks, and Communities
 
+The natural sciences improve our lives every day: through medicine, technology, communication, transportation, energy, programming, and artificial intelligence.
+
+And what about the humanities?
+
+Do they also bring many new and useful changes into our lives every day?
+
+No?
+
+Why not?
+
 This page is the entrance to a short presentation of my work.
-
-The project begins with a simple question: can the humanities help ordinary people make better decisions in real situations?
-
-My answer is yes, but only if the humanities acquire working models comparable to the models used in the natural sciences. In my system, the basic virtual world contains three types of entities: persons, tasks, and communities. Their meetings can be modeled, compared, and used for practical decisions.
 
 ## English
 
