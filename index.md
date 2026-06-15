@@ -17,4 +17,4 @@ No?
 
 Why not?
 
-[Read further](02_start_here_en.md) / [Читать дальше](02_start_here_ru.md)
+[Read further](01_manifesto_en.md) / [Читать дальше](01_manifesto_ru.md)

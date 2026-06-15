@@ -32,3 +32,5 @@ But for this they need a radical reconstruction according to the standards of th
 Then the humanities could help a person choose tasks, partners, communities, and strategies of behavior.
 
 But there are also indirect consequences, and they are much more serious.
+
+[Read further](02_start_here_en.md)
