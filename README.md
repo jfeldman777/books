@@ -9,4 +9,4 @@ Suggested order:
 3. `03_discourse_map_ru.md` / `03_discourse_map_en.md`
 4. `04_three_main_lines_ru.md` / `04_three_main_lines_en.md`
 5. `05_surprise_ru.md` / `05_surprise_en.md`
-6. `06_short_glossary.md`
+6. `06_short_glossary_ru.md` / `06_short_glossary_en.md`

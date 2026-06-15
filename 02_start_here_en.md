@@ -30,16 +30,14 @@ At the center of the project are three models:
 
 For them, we build maps: the Personality Map, the Task Map, and the Group Map. These maps make it possible not only to discuss people, tasks, and communities, but to make predictions: which tasks suit a person, with whom cooperation is possible, where conflict may arise, and which community will accept a person or reject him.
 
-## What To Read First
+## What Next
 
-1. [A Brief Outline of the Ideas](01_manifesto_en.md).
-2. [A Short Glossary](06_short_glossary.md).
-3. The Philosopher Twenty Years Later. This book is currently available in Russian.
-4. [The Model of the Person, the Task, and the Community](04_three_main_lines_en.md).
-5. [Tuples of Concepts](03_discourse_map_en.md).
-6. [And Now the Surprise](05_surprise_en.md).
+1. [A Short Glossary](06_short_glossary_en.md).
+2. [The Model of the Person, the Task, and the Community](04_three_main_lines_en.md).
+3. [Tuples of Concepts](03_discourse_map_en.md).
+4. [And Now the Surprise](05_surprise_en.md).
 
-If you want to read further, write about it to the author and leave your email address.
+If you are interested in reading further, write to the author and leave your email address. He has many books and will direct you to the one that is right for you.
 
 ## What To Expect
 

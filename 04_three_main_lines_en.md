@@ -88,4 +88,4 @@ The three models - Warming-Up, Encodings, and Levels - belong to differential ps
 
 At this point, one could stop. We have obtained a working scheme: a virtual world in which people, tasks, and communities meet in thought experiments, and three models that help predict these encounters: Warming-Up, Encodings, and Levels.
 
-But the main thing begins after this.
+[But the main thing begins after this.](05_surprise_en.md)
