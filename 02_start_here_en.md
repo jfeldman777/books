@@ -32,11 +32,14 @@ For them, we build maps: the Personality Map, the Task Map, and the Group Map. T
 
 ## What To Read First
 
-1. A Brief Outline of the Ideas.
-2. A Short Glossary.
-3. The Philosopher Twenty Years Later.
-4. The Model of the Person, the Task, and the Group.
-5. Applications.
+1. [A Brief Outline of the Ideas](01_manifesto_en.md).
+2. [A Short Glossary](06_short_glossary.md).
+3. The Philosopher Twenty Years Later. This book is currently available in Russian.
+4. [The Model of the Person, the Task, and the Community](04_three_main_lines_en.md).
+5. [Tuples of Concepts](03_discourse_map_en.md).
+6. [And Now the Surprise](05_surprise_en.md).
+
+If you want to read further, write to the author.
 
 ## What To Expect
 
@@ -45,4 +48,3 @@ This is not academic philosophy in the usual sense, and it is not popular psycho
 My aim is a different philosophy, a different psychology, a different science of the human being.
 
 And therefore, perhaps, a different life.
-
