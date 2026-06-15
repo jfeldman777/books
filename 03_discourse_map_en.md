@@ -36,7 +36,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 - [FSHA: four-sided human activity: thinking - behavior - interaction - co-knowledge](10_humanities_map_en.md)
 - five domains
-- [task conveyor](06_short_glossary_en.md) - nine psychic mechanisms
+- [task conveyor - nine psychic mechanisms](15_task_conveyor_mechanisms_en.md)
 - three weak points - [three models](06_short_glossary_en.md)
 - [warming-up - encodings - levels](06_short_glossary_en.md)
 - real world - [virtual world](06_short_glossary_en.md)
