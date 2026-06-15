@@ -1,5 +1,7 @@
 # The Humanities: Two Axes, Five Domains, and FSHA
 
+![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes.png)
+
 The map shows the relative position of problem domains. There are five such domains.
 
 Why is this needed?
