@@ -1,7 +1,7 @@
 {% assign feedback_action = site.feedback_action | default: '' %}
 {% assign thanks_url = site.url | append: site.baseurl | append: '/?thanks=1' %}
 
-<section class="feedback" aria-labelledby="feedback-heading-en">
+<section class="feedback" id="feedback" aria-labelledby="feedback-heading-en">
   <div class="feedback__grid">
     <form class="feedback__form" method="post" action="{{ feedback_action }}"{% unless feedback_action %} data-disabled="true"{% endunless %}>
       <input type="hidden" name="_subject" value="Books site feedback (English)">
