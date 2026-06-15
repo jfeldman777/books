@@ -3,11 +3,31 @@
 Yakov Feldman  
 A brief outline of my ideas, 1989 to the present
 
-My work begins with a simple observation: the natural sciences know how to accumulate results, build models, make predictions, and test them, while the humanities often remain a collection of separate authorial languages and do not help people make decisions well enough.
+The natural sciences improve our lives every day: through medicine, technology, communication, transportation, energy, programming, and artificial intelligence.
 
-And this is exactly where help is needed most. People constantly face points of choice: which task to take on, whom to cooperate with, which community to join, how to build education, how to organize a state, and how to understand knowledge, good, evil, and progress.
+And what about the humanities?
 
-I propose to rebuild the humanities according to the standards of the natural sciences. Their power lies not only in equipment and experiments, but in method: model -> thought experiment -> prediction -> testing -> correction of the model.
+Do they also bring many new and useful changes into our lives every day?
+
+No?
+
+Why not?
+
+Do the humanities have such a possibility?
+
+Of course they do. And it is right in front of us.
+
+People make decisions every day. These decisions affect not only the person who makes them, but many other people as well.
+
+They choose which task to take on, whom to cooperate with, which community to enter, when to argue, when to step back, and when to change strategy.
+
+It is precisely at these points that a person especially needs knowledge. But most of the time, he does not have the right kind of knowledge. He acts out of habit, intuition, fear, pressure from circumstances, or someone else's advice.
+
+Moreover, almost all important decisions are made among people. Therefore, a good decision must take into account not only my goals, but also the needs, abilities, limitations, and possible reactions of other people.
+
+Here the humanities could help ordinary people right now. But for this they need a radical reconstruction according to the standards of the natural sciences.
+
+The strength of the natural sciences lies not only in equipment and experiments, but in method: model -> thought experiment -> prediction -> testing -> correction of the model.
 
 I apply this principle to the study of human beings. For this, three basic models are needed: the person, the task, and the group.
 
@@ -36,4 +56,3 @@ These questions can be answered not only with words, but with models.
 My aim is a different philosophy, a different psychology, a different science of the human being.
 
 And therefore, perhaps, a different life.
-
