@@ -35,7 +35,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 ## 4. Human Being, Task, Group
 
 - [FSHA: four-sided human activity: thinking - behavior - interaction - co-knowledge](10_humanities_map_en.md)
-- five domains
+- [five domains](10_humanities_map_en.md)
 - [task conveyor - nine psychic mechanisms](15_task_conveyor_mechanisms_en.md)
 - three weak points - [three models](06_short_glossary_en.md)
 - [warming-up - encodings - levels](06_short_glossary_en.md)
