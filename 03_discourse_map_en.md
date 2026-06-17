@@ -43,7 +43,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - [person - task - community/group](04_three_main_lines_en.md)
 - [prediction of encounters - optimization of behavior](04_three_main_lines_en.md)
 - three frames of decision-making
-- substantial/real groups and formal/pseudo groups
+- [substantial/real groups and formal/pseudo groups](16_groups_and_pseudogroups_en.md)
 
 ## 5. Personality And Psychology
 
