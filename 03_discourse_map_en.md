@@ -12,12 +12,12 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 2. Knowledge, Truth, The Ideal
 
-- thinking - doing / I alone - we are many
+- [thinking - doing / I alone - we are many](10_humanities_map_en.md)
 - [material - ideal](17_material_ideal_en.md)
 - [scale of ideal forms](18_scale_of_ideal_forms_en.md)
 - [truth and truthfulness](19_knowledge_p_procedure_en.md)
 - [five components of knowledge and the procedure for evaluating truthfulness](19_knowledge_p_procedure_en.md)
-- external and internal criteria of quality
+- [external and internal criteria of quality](18_scale_of_ideal_forms_en.md)
 - material - spiritual
 - [map of the humanities: the axis “thinking - doing”, the axis “we are many - I alone”](10_humanities_map_en.md)
 
