@@ -39,6 +39,8 @@ For them, we build maps: the Personality Map, the Task Map, and the Group Map. T
 
 If you are interested in reading further, [write to the author and leave your email address]({{ site.baseurl }}/#feedback). He has many books and will direct you to the one that is right for you.
 
+If you want to get more quickly to the ideas and models that match your own needs, [choose your gates into the city](20_nine_gates_en.md).
+
 ## What To Expect
 
 This is not academic philosophy in the usual sense, and it is not popular psychology. It is an author’s attempt to create a shared language for fields that usually exist separately: philosophy, psychology, education, sociology, political theory, and cultural theory.
