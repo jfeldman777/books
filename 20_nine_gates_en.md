@@ -2,6 +2,8 @@
 
 Here are several entrances into my system, for different kinds of readers.
 
+![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes-en.svg)
+
 ## The Gates
 
 **1. A unified science of the human being.** Today there is no unified science of the human being. It looks like an American plain inhabited by tribes. Would you like to enter this territory and build a modern state on it?
@@ -11,8 +13,6 @@ Here are several entrances into my system, for different kinds of readers.
 Everyday life contains many tasks that we constantly solve: whether to take a job, enter a dialogue, knock on the door of a community. And this is only the top layer. Which profession should one choose? Which employee should be hired, and which one fired? Whom should we trust with work, and whom not? And many, many other tasks.
 
 Shall we study it?
-
-![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes-en.svg)
 
 **3. Philosophy.** Do you love philosophy, but cannot find a contemporary one? Philosophy: enter here.
 
