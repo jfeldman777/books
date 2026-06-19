@@ -6,7 +6,11 @@ Here are several entrances into my system, for different kinds of readers.
 
 1. **A unified science of the human being.** Today there is no unified science of the human being. It looks like an American plain inhabited by tribes. Would you like to enter this territory and build a modern state on it?
 
-2. **Everyday life.** If we look at the map of this plain, one area is almost undescribed. I mean everyday life. Shall we study it?
+2. **Everyday life.** If we look at the map of this plain, one area is almost undescribed. I mean everyday life.
+
+Everyday life contains many tasks that we constantly solve: whether to take a job, enter a dialogue, knock on the door of a community. And this is only the top layer. Which profession should one choose? Which employee should be hired, and which one fired? Whom should we trust with work, and whom not? And many, many other tasks.
+
+Shall we study it?
 
 ![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes-en.svg)
 
