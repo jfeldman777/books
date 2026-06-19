@@ -4,9 +4,9 @@ Here are several entrances into my system, for different kinds of readers.
 
 ## The Gates
 
-1. **A unified science of the human being.** Today there is no unified science of the human being. It looks like an American plain inhabited by tribes. Would you like to enter this territory and build a modern state on it?
+**1. A unified science of the human being.** Today there is no unified science of the human being. It looks like an American plain inhabited by tribes. Would you like to enter this territory and build a modern state on it?
 
-2. **Everyday life.** If we look at the map of this plain, one area is almost undescribed. I mean everyday life.
+**2. Everyday life.** If we look at the map of this plain, one area is almost undescribed. I mean everyday life.
 
 Everyday life contains many tasks that we constantly solve: whether to take a job, enter a dialogue, knock on the door of a community. And this is only the top layer. Which profession should one choose? Which employee should be hired, and which one fired? Whom should we trust with work, and whom not? And many, many other tasks.
 
@@ -14,19 +14,19 @@ Shall we study it?
 
 ![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes-en.svg)
 
-3. **Philosophy.** Do you love philosophy, but cannot find a contemporary one? Philosophy: enter here.
+**3. Philosophy.** Do you love philosophy, but cannot find a contemporary one? Philosophy: enter here.
 
-4. **Worldview.** Do you dislike Ken Wilber? We have something better. Enter here.
+**4. Worldview.** Do you dislike Ken Wilber? We have something better. Enter here.
 
-5. **Children and culture.** Do you work with children and want to lead them into world culture through a back door? You may be interested in “Recapitulation: the principle has been justified, and not even a hundred years have passed”. Educator of the best development.
+**5. Children and culture.** Do you work with children and want to lead them into world culture through a back door? You may be interested in “Recapitulation: the principle has been justified, and not even a hundred years have passed”. Educator of the best development.
 
-6. **Your close circle.** Do you want to understand what is happening in your close circle? Microsociology, general and differential psychology, conflict theory: enter here.
+**6. Your close circle.** Do you want to understand what is happening in your close circle? Microsociology, general and differential psychology, conflict theory: enter here.
 
-7. **One psychology.** Many incompatible psychologies turn out to be projections of one single psychology. Only here.
+**7. One psychology.** Many incompatible psychologies turn out to be projections of one single psychology. Only here.
 
-8. **Sellers of information.** Tired of buying from information merchants? Want to sell rather than buy? Enter here.
+**8. Sellers of information.** Tired of buying from information merchants? Want to sell rather than buy? Enter here.
 
-9. **The best.** What does “the best” mean? The best education, the best state structure, the best development of human potential, the best life strategy. Only here.
+**9. The best.** What does “the best” mean? The best education, the best state structure, the best development of human potential, the best life strategy. Only here.
 
 Note: the number nine is not accidental.
 
