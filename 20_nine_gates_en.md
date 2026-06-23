@@ -6,7 +6,19 @@ Here are several entrances into my system, for different kinds of readers.
 
 ## The Gates
 
-**1. A unified science of the human being.** Today there is no unified science of the human being. It looks like an American plain inhabited by tribes. Would you like to enter this territory and build a modern state on it?
+**1. Five domains - one key.** Look at the map of the humanities. You can see five domains on it.
+
+A well-educated person should understand all five domains, including everyday life.
+
+You do not have to know all the details: that is what AI is for. But you must understand the general principles.
+
+It may seem that each of the five domains has its own principles, and that in order to understand all five domains, one would need five different educations.
+
+In other words: five doors require five keys.
+
+But is it possible to find one key that opens all five doors, one principle that determines the laws of all five domains?
+
+Yes. The continuation is here.
 
 **2. Everyday life.** If we look at the map of this plain, one area is almost undescribed. I mean everyday life.
 
