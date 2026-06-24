@@ -42,10 +42,6 @@ Thus one scale opens five doors:
 - philosophy;
 - everyday life.
 
-This key does not erase the differences between the doors.
-
-It makes it possible to see why they are connected and why the same structure can be found in different places.
-
 The full unfolding of this topic begins with the model of Levels.
 
 [Go to “And Now the Surprise”](05_surprise_en.md)
