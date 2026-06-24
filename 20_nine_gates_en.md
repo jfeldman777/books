@@ -2,6 +2,8 @@
 
 Here are several entrances into my system, for different kinds of readers.
 
+If questions arise about terms, models, or your reading route, you can [ask the Tutor](https://chatgpt.com/g/g-6a2c29212a688191a9b86ff27c133a15-diskurs-feldmana-uchebnyi-pomoshchnik).
+
 ![Map of the humanities: two axes, five domains, and FSHA](assets/images/humanities-map-two-axes-en.svg)
 
 ## The Gates
@@ -41,8 +43,6 @@ Shall we study it?
 **9. The best.** What does “the best” mean? The best education, the best state structure, the best development of human potential, the best life strategy. Only here.
 
 Note: the number nine is not accidental.
-
-If questions arise about terms, models, or your reading route, you can [ask the Tutor](https://chatgpt.com/g/g-6a2c29212a688191a9b86ff27c133a15-diskurs-feldmana-uchebnyi-pomoshchnik).
 
 ## Choose Your Gates
 
