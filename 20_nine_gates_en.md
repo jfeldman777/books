@@ -42,6 +42,8 @@ Shall we study it?
 
 Note: the number nine is not accidental.
 
+If questions arise about terms, models, or your reading route, you can [ask the Tutor](https://chatgpt.com/g/g-6a2c29212a688191a9b86ff27c133a15-diskurs-feldmana-uchebnyi-pomoshchnik).
+
 ## Choose Your Gates
 
 If you are interested in going deeper, mark the entrances that are closest to you, leave your email, and the author can suggest an individual reading route.

@@ -44,4 +44,6 @@ Thus one scale opens five doors:
 
 The full unfolding of this topic begins with the model of Levels.
 
+If you want to clarify how Levels work in your own question, you can [ask the Tutor](https://chatgpt.com/g/g-6a2c29212a688191a9b86ff27c133a15-diskurs-feldmana-uchebnyi-pomoshchnik).
+
 [Go to “And Now the Surprise”](05_surprise_en.md)

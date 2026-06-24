@@ -1,5 +1,7 @@
 # Short Glossary
 
+If a term is missing here or the explanation is too short, you can [ask the Tutor](https://chatgpt.com/g/g-6a2c29212a688191a9b86ff27c133a15-diskurs-feldmana-uchebnyi-pomoshchnik).
+
 ## Virtual World
 
 In physics, it is common to build models of the objects being studied and to experiment with these models. Models can be physical or virtual.
