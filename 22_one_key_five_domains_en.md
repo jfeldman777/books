@@ -1,4 +1,4 @@
-# One Key for Five Domains
+# One Key for Five Doors
 
 The key that opens almost all doors is the scale of **Levels**.
 
@@ -34,7 +34,7 @@ Thinking, co-knowledge, behavior, and interaction look different at each level. 
 
 Finally, in everyday life, we need to learn how to make a Person Passport, a Task Passport, and a Community Passport in order to foresee the future and optimize the present.
 
-Thus one scale connects five domains:
+Thus one scale opens five doors:
 
 - education;
 - psychology;
@@ -42,7 +42,7 @@ Thus one scale connects five domains:
 - philosophy;
 - everyday life.
 
-This key does not erase the differences between the domains.
+This key does not erase the differences between the doors.
 
 It makes it possible to see why they are connected and why the same structure can be found in different places.
 
