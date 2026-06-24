@@ -18,7 +18,7 @@ In other words: five doors require five keys.
 
 But is it possible to find one key that opens all five doors, one principle that determines the laws of all five domains?
 
-Yes. The continuation is here.
+Yes. [The continuation is here](22_one_key_five_domains_en.md).
 
 **2. Everyday life.** If we look at the map of this plain, one area is almost undescribed. I mean everyday life.
 
