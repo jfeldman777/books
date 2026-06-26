@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Myth, Religion, Science</title>
+  <desc id="desc">A directed graph of authors, transmitters, and consumers inside three cultural forms: myth, religion, and science.</desc>
+  <rect width="1000" height="700" fill="#ffffff"/>
+
+  <rect x="10" y="65" width="980" height="610" fill="none" stroke="#ff1744" stroke-width="3"/>
+  <text x="800" y="50" fill="#ff1744" font-family="Arial, sans-serif" font-size="24" font-weight="700">SCIENCE</text>
+
+  <rect x="35" y="215" width="950" height="435" fill="none" stroke="#1b35ff" stroke-width="3"/>
+  <text x="720" y="680" fill="#1b35ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">RELIGION</text>
+
+  <rect x="50" y="430" width="925" height="180" fill="none" stroke="#18e545" stroke-width="3"/>
+  <text x="780" y="640" fill="#18e545" font-family="Arial, sans-serif" font-size="24" font-weight="700">MYTH</text>
+
+  <g fill="none" stroke="#111111" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M450 155 L350 285"/>
+    <path d="M450 155 L540 285"/>
+    <path d="M350 345 L170 505"/>
+    <path d="M350 345 L285 505"/>
+    <path d="M350 345 L400 505"/>
+    <path d="M540 345 L560 505"/>
+    <path d="M565 335 L660 505"/>
+    <path d="M575 325 L780 505"/>
+
+    <path d="M350 285 l-8 -18 m8 18 l-19 -1"/>
+    <path d="M540 285 l-20 -2 m20 2 l-8 -18"/>
+    <path d="M170 505 l2 -21 m-2 21 l22 -1"/>
+    <path d="M285 505 l-7 -20 m7 20 l16 -13"/>
+    <path d="M400 505 l-12 -18 m12 18 l13 -18"/>
+    <path d="M560 505 l-13 -17 m13 17 l12 -18"/>
+    <path d="M660 505 l-15 -15 m15 15 l9 -19"/>
+    <path d="M780 505 l-19 -11 m19 11 l5 -21"/>
+  </g>
+
+  <g fill="#ffffff" stroke="#111111" stroke-width="4">
+    <circle cx="450" cy="125" r="43"/>
+    <circle cx="350" cy="315" r="38"/>
+    <circle cx="540" cy="315" r="38"/>
+    <circle cx="170" cy="510" r="34"/>
+    <circle cx="285" cy="510" r="34"/>
+    <circle cx="400" cy="510" r="34"/>
+    <circle cx="560" cy="510" r="34"/>
+    <circle cx="660" cy="510" r="34"/>
+    <circle cx="780" cy="510" r="34"/>
+  </g>
+
+  <g fill="#111111" font-family="Arial, sans-serif" font-size="25" font-weight="700">
+    <text x="530" y="135">AUTHORS</text>
+    <text x="630" y="305">TRANSMITTERS</text>
+    <text x="765" y="585">CONSUMERS</text>
+  </g>
+</svg>

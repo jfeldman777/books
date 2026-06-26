@@ -23,8 +23,8 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 3. History, Progress, Culture
 
-- arrow of history - coarse-grained solution - fine-grained solution
-- myth - religion - science
+- [arrow of history - coarse-grained solution - fine-grained solution](24_arrow_of_history_en.md)
+- [myth - religion - science](25_myth_religion_science_en.md)
 - layers of being - strategies in culture - time horizon
 - outsider - consumer - transmitter - author - wanderer-invader
 - static and dynamic strategies

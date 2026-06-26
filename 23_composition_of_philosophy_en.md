@@ -45,7 +45,7 @@ Therefore, second philosophy is where themes appear that are impossible in first
 
 The basic terms of second philosophy are:
 
-- the arrow of history (four questions);
+- [the arrow of history (four questions)](24_arrow_of_history_en.md);
 - good and evil (three points of view).
 
 Here too we only indicate the place of these themes. Their unfolding belongs to other texts.
