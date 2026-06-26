@@ -289,6 +289,68 @@ img {
   font-style: italic;
 }
 
+.content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: var(--space-md) 0;
+  overflow-x: auto;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-family: var(--sans);
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+
+.content th,
+.content td {
+  min-width: 7.5rem;
+  padding: 0.55rem 0.7rem;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  text-align: left;
+}
+
+.content th {
+  background: var(--accent);
+  color: var(--bg-elevated);
+  font-weight: 600;
+}
+
+.content td {
+  background: var(--bg-elevated);
+}
+
+.content tr:nth-child(even) td {
+  background: #f0ece5;
+}
+
+.content th:first-child,
+.content td:first-child {
+  border-left: 1px solid var(--border);
+}
+
+.content tr:first-child th {
+  border-top: 1px solid var(--accent);
+}
+
+.content th:first-child {
+  border-top-left-radius: 6px;
+}
+
+.content th:last-child {
+  border-top-right-radius: 6px;
+}
+
+.content tr:last-child td:first-child {
+  border-bottom-left-radius: 6px;
+}
+
+.content tr:last-child td:last-child {
+  border-bottom-right-radius: 6px;
+}
+
 /* Bilingual glossary: alternate-language paragraphs */
 .content h2 + p + p {
   /* natural flow; no special rule needed globally */
