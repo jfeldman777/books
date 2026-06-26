@@ -31,4 +31,4 @@ For now, therefore, we fix only the principle: history is measured not by dates,
 
 [Coarse-grained solution: myth - religion - science](25_myth_religion_science_en.md).
 
-Fine-grained solution: eight epochs.
+[Fine-grained solution: eight epochs](26_eight_epochs_en.md).

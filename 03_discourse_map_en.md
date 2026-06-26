@@ -29,7 +29,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - outsider - consumer - transmitter - author - wanderer-invader
 - static and dynamic strategies
 - measurement of progress - system of examinations
-- eight epochs - mechanism of movement - zone of legalization
+- [eight epochs - mechanism of movement - legalization band](26_eight_epochs_en.md)
 - good and evil - technical aspects - social pressure - personal indicators
 
 ## 4. Human Being, Task, Group
@@ -77,7 +77,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 ## 8. Society, State, Art
 
 - macrosociology - microsociology
-- visual arts - artist - viewer - epoch
+- [visual arts - artist - viewer - epoch](26_eight_epochs_en.md)
 - epoch - power - economy - styles - movements in art
 - aspects of thinking - co-knowledge - interaction
 - main theorem - why levels are everywhere
