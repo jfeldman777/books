@@ -8,7 +8,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - [eight rules of discussion](08_eight_rules_discussion_en.md)
 - [six definitions of philosophy](09_six_definitions_philosophy_en.md)
 - [tradition - modernity - postmodernity - metamodernity](11_postmodern_metamodern_en.md)
-- metaphilosophy - first philosophy - second philosophy - [history of ideas](12_euclid_hilbert_en.md)
+- [metaphilosophy - first philosophy - second philosophy - history of ideas](23_composition_of_philosophy_en.md)
 
 ## 2. Knowledge, Truth, The Ideal
 
