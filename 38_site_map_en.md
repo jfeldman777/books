@@ -53,6 +53,13 @@ If the task is to inspect every page, it is easiest to go through this list from
 - [Short glossary](06_short_glossary_en.md)
 - [Nine gates into the city](20_nine_gates_en.md)
 
+## Fresh Materials
+
+Fresh materials that have not yet entered the canon and are not yet presented on this site are published here:
+
+- [Patreon](https://patreon.com/c/jacobfeldman)
+- [Sponsr](https://sponsr.ru/jfeldman/)
+
 ## Basic Formulation
 
 - [Model of the person, task, and community](04_three_main_lines_en.md)
