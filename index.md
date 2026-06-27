@@ -18,3 +18,5 @@ No?
 Why not?
 
 [Read further](01_manifesto_en.md) / [Читать дальше](01_manifesto_ru.md)
+
+[Site map](38_site_map_en.md) / [Карта сайта](38_site_map_ru.md)
