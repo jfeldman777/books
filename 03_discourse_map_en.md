@@ -30,7 +30,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - [static and dynamic strategies](28_static_dynamic_strategies_en.md)
 - [measurement of progress - system of examinations](24_arrow_of_history_en.md)
 - [eight epochs - mechanism of movement - legalization band](26_eight_epochs_en.md)
-- good and evil - technical aspects - social pressure - personal indicators
+- [good and evil - technical aspects - social pressure - personal indicators](30_good_evil_en.md)
 
 ## 4. Human Being, Task, Group
 
