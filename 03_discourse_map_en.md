@@ -47,16 +47,17 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 5. Personality And Psychology
 
-- eight levels - two basic scales
+- [psychology: general - differential - age psychology](31_psychology_en.md)
+- [eight levels - two basic scales](31_psychology_en.md)
 - temperament - character - observable scales - warming-up curve
 - four warming-ups - four temperaments
 - one - two - three temperaments
 - laughter - tears
 - humor - sarcasm
-- encodings: small - medium - large
-- ear - eye - hand - nose - tongue
-- text - picture - scheme
-- images - meanings - scenarios
+- [encodings: small - medium - large](34_encodings_en.md)
+- [ear - eye - hand - smell - taste](34_encodings_en.md)
+- [text - picture - scheme](34_encodings_en.md)
+- [images - meanings - scenarios](34_encodings_en.md)
 
 ## 6. Dialogue, Conflict, Choice
 
@@ -69,8 +70,8 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 ## 7. Education, Age, Development
 
-- [eight ages of the child - age barriers](05_surprise_en.md)
-- [principle of recapitulation - history - maturation of the child](05_surprise_en.md)
+- [eight ages of the child - age barriers](33_age_barriers_en.md)
+- [principle of recapitulation - history - maturation of the child](32_recapitulation_en.md)
 - abilities - needs - choice of educational system
 - ceiling principle - technogenic disasters - Chernobyl
 
