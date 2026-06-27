@@ -4,7 +4,11 @@ In the pair **material - ideal**, we discuss ontology and epistemology.
 
 In the pair **material - spiritual**, we discuss society and the person.
 
-I call this **layers of being**. On closer inspection, there are not two of them, but more.
+I call this **layers of being**. On closer inspection, there are not two of them, but more:
+
+```text
+emotional - material - social - cultural - spiritual - cosmic
+```
 
 Here is the final list. Explanations follow below.
 
@@ -15,6 +19,7 @@ Here is the final list. Explanations follow below.
 | 2 | Social |
 | 3 | Cultural |
 | 4 | Spiritual |
+| 5 | Cosmic |
 
 ## Situations
 
@@ -54,6 +59,7 @@ We remember one situation for minutes, another for a month, a third for many yea
 | 2 | Social | years |
 | 3 | Cultural | generations |
 | 4 | Spiritual | millennia |
+| 5 | Cosmic | millions of years |
 
 Here is a simple and clear example.
 
@@ -80,6 +86,7 @@ Strangely enough, culture itself also becomes layered, and its layers can be com
 | 2 | Social | years | Tradition |
 | 3 | Cultural | generations | Classics |
 | 4 | Spiritual | millennia | Super-classics |
+| 5 | Cosmic | millions of years | All |
 
 Does this stratification have deeper reasons?
 
@@ -87,14 +94,14 @@ Yes. We know them from the chapter [Myth - Religion - Science](25_myth_religion_
 
 ## Strategies in Culture
 
-| No. | Layers of being | Time horizon | Layers of culture | Strategies in culture |
+| No. | Layers of being | Strategies in culture | Time horizon | Layers of culture |
 | --- | --- | --- | --- | --- |
-| 0 | Emotional | minutes | advertising | Outsider |
-| 1 | Material | days | Mass culture | Consumer |
-| 2 | Social | years | Tradition | Transmitter |
-| 3 | Cultural | generations | Classics | Author |
-| 4 | Spiritual | millennia | Super-classics | Wanderer |
-| 5 | Cosmic | millions of years | All | Invader |
+| 0 | Emotional | Outsider | minutes | advertising |
+| 1 | Material | Consumer | days | Mass culture |
+| 2 | Social | Transmitter | years | Tradition |
+| 3 | Cultural | Author | generations | Classics |
+| 4 | Spiritual | Wanderer | millennia | Super-classics |
+| 5 | Cosmic | Invader | millions of years | All |
 
 The outsider exits the hierarchy. It no longer makes any demands of him.
 

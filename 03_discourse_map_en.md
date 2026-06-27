@@ -18,7 +18,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - [truth and truthfulness](19_knowledge_p_procedure_en.md)
 - [five components of knowledge and the procedure for evaluating truthfulness](19_knowledge_p_procedure_en.md)
 - [external and internal criteria of quality](18_scale_of_ideal_forms_en.md)
-- material - spiritual
+- [material - spiritual](27_layers_time_horizon_en.md)
 - [map of the humanities: the axis “thinking - doing”, the axis “we are many - I alone”](10_humanities_map_en.md)
 
 ## 3. History, Progress, Culture
@@ -27,7 +27,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - [myth - religion - science](25_myth_religion_science_en.md)
 - [layers of being - strategies in culture - time horizon](27_layers_time_horizon_en.md)
 - [outsider - consumer - transmitter - author - wanderer-invader](27_layers_time_horizon_en.md)
-- static and dynamic strategies
+- [static and dynamic strategies](28_static_dynamic_strategies_en.md)
 - [measurement of progress - system of examinations](24_arrow_of_history_en.md)
 - [eight epochs - mechanism of movement - legalization band](26_eight_epochs_en.md)
 - good and evil - technical aspects - social pressure - personal indicators
@@ -42,7 +42,7 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 - real world - [virtual world](06_short_glossary_en.md)
 - [person - task - community/group](04_three_main_lines_en.md)
 - [prediction of encounters - optimization of behavior](04_three_main_lines_en.md)
-- three frames of decision-making
+- [three frames of decision-making](29_three_choice_settings_en.md)
 - [substantial/real groups and formal/pseudo groups](16_groups_and_pseudogroups_en.md)
 
 ## 5. Personality And Psychology
