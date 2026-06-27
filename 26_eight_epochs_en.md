@@ -69,11 +69,31 @@ When two sides meet, each side has one active level. The outcome of the encounte
 | Neighboring | “Senior-junior” cooperation | larger gain for the senior, medium gain for the junior: `+4, +3` |
 | Distant | War | the junior attacks; the senior dies or flees: `+1, -100` |
 
-## How History Flows From This
+## The Engine and the Propulsor of History
 
 Every epoch has its own reference level `X`.
 
 This level is demonstrated by the elite of the epoch. And conversely: if a person demonstrates level `X`, he may be recognized as “one of us” and taken into the elite.
+
+Engineers distinguish between an engine and a propulsor.
+
+An engine transforms stored energy, for example the chemical energy of fuel, into the energy of motion.
+
+A propulsor transfers the energy of motion to those parts of the machine that guarantee the resulting movement of the apparatus.
+
+In a car, these are the wheels. In a ship, the propeller. In a rocket, the stream of hot gases.
+
+The engine of history is the desire of young people to rise to a higher social status, where such movement is possible.
+
+In agrarian communities, a person’s status grows together with the seizure of land.
+
+In ancient empires, a person’s status grows together with the status of the state, and that, in turn, means the seizure of land.
+
+In later epochs, status growth becomes a personal movement along the scale of examinations.
+
+But what is the propulsor here? What transforms the personal movement of separate people into the movement of society as a whole?
+
+The propulsor is the mechanism by which the reference level changes.
 
 From below, from the people, young people rise. They try to enter the elite, that is, to learn how to demonstrate the reference level of the epoch, `X`. But some of them overshoot.
 
@@ -158,23 +178,20 @@ Once again, from the beginning.
 
 Does history have a direction? Can we speak of progress, development, movement from worse to better?
 
-The Bible: we move toward the Last Judgment and the Resurrection of the Dead.
+The Bible: “we are moving toward the Last Judgment and the Resurrection of the Dead.”
 
-Hegel: rationality increases. By the way, who knows what that means?
+Hegel: “rationality is increasing” (by the way, who knows what that means?)
 
-Marx: we move toward a classless society. And the Resurrection of the Dead.
+Marx: “we are moving toward a classless society” (and the Resurrection of the Dead)
 
-Spengler and Toynbee: we are standing still; there is no progress.
+Spengler and Toynbee: “we are standing still, there is no progress.”
 
-Fukuyama: I thought Good defeats Evil and humanity becomes better, but apparently things are more complicated.
+Fukuyama: “I thought that Good defeats Evil, that humanity is becoming better, but I was wrong, nothing changes.”
 
-Pinker: it changes! We become less violent.
+Pinker: “It changes! We are becoming kinder!”
 
-Harari: global connectedness of the world increases. This is progress.
+Harari: “the global connectedness of the world is increasing - this is progress”
 
-We: rationality increases, that is, complexity increases, that is, the level of TAI rises.
+We: “rationality is increasing, that is, complexity is increasing, that is, the level of TAI is rising.”
 
-Hegel: “Wow!”
-
-The others are silent in confusion.
-
+(Hegel: “wow!”, the others are silent in confusion.)
