@@ -25,10 +25,10 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 - [arrow of history - coarse-grained solution - fine-grained solution](24_arrow_of_history_en.md)
 - [myth - religion - science](25_myth_religion_science_en.md)
-- layers of being - strategies in culture - time horizon
-- outsider - consumer - transmitter - author - wanderer-invader
+- [layers of being - strategies in culture - time horizon](27_layers_time_horizon_en.md)
+- [outsider - consumer - transmitter - author - wanderer-invader](27_layers_time_horizon_en.md)
 - static and dynamic strategies
-- measurement of progress - system of examinations
+- [measurement of progress - system of examinations](24_arrow_of_history_en.md)
 - [eight epochs - mechanism of movement - legalization band](26_eight_epochs_en.md)
 - good and evil - technical aspects - social pressure - personal indicators
 

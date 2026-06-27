@@ -31,16 +31,16 @@ When an epoch changes, the viewer begins to receive pleasure from different stru
 
 ## One Visual Example Per Epoch
 
-| No. | Epoch | Visual example | Structure |
-| --- | --- | --- | --- |
-| 1 | Hunters | sign, symbol, single figure | one object |
-| 2 | Farmers | ornament, embroidery, petroglyphs, repetition | row, repetition without development |
-| 3 | Ancient empires | runners on a Greek amphora, battle along one line | movement and rivalry along one line |
-| 4 | Middle Ages | Gothic cathedral, iconostasis | parallel lines, rows, and levels |
-| 5 | Renaissance | Botticelli, Raphael, Michelangelo | multidirectional movement in one plane |
-| 6 | Industrial epoch | multi-plane historical painting, Aivazovsky | several planes acting simultaneously |
-| 7 | Mass systems | Matisse, Picasso, Klimt, Kandinsky | creation of an authorial world |
-| 8 | Network epoch | Ciurlionis | worlds shining through one another |
+| No. | Epoch | Visual example | Structure | Link |
+| --- | --- | --- | --- | --- |
+| 1 | Hunters | sign, symbol, single figure | one object | [cave painting](https://en.wikipedia.org/wiki/Cave_painting) |
+| 2 | Farmers | ornament, embroidery, petroglyphs, repetition | row, repetition without development | [petroglyph](https://en.wikipedia.org/wiki/Petroglyph) |
+| 3 | Ancient empires | runners on a Greek amphora, battle along one line | movement and rivalry along one line | [Alexander Mosaic](https://en.wikipedia.org/wiki/Alexander_Mosaic) |
+| 4 | Middle Ages | Gothic cathedral, iconostasis | parallel lines, rows, and levels | [Cologne Cathedral](https://en.wikipedia.org/wiki/Cologne_Cathedral) |
+| 5 | Renaissance | Botticelli, Raphael, Michelangelo | multidirectional movement in one plane | [Botticelli’s *Primavera*](https://en.wikipedia.org/wiki/Primavera_(Botticelli)) |
+| 6 | Industrial epoch | multi-plane historical painting, Aivazovsky | several planes acting simultaneously | [*The Last Day of Pompeii*](https://en.wikipedia.org/wiki/The_Last_Day_of_Pompeii) |
+| 7 | Mass systems | Matisse, Picasso, Klimt, Kandinsky | creation of an authorial world | [Matisse’s *Dance*](https://en.wikipedia.org/wiki/Dance_(Matisse)) |
+| 8 | Network epoch | Ciurlionis | worlds shining through one another | [Ciurlionis](https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis) |
 
 ## The Sequence Of Structures
 
