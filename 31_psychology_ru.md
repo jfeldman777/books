@@ -29,7 +29,10 @@
 Подробнее:
 
 - [Разогрев - Кодировки - Уровни](06_short_glossary_ru.md)
+- [Разогрев](37_warming_up_ru.md)
 - [Кодировки](34_encodings_ru.md)
+- [Темперамент](35_temperament_ru.md)
+- [Смех, слезы, прокрастинация](36_laughter_tears_procrastination_ru.md)
 - [Один ключ, открывающий пять дверей](22_one_key_five_domains_ru.md)
 
 ## Возрастная психология

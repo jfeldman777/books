@@ -49,11 +49,11 @@ Below are the main tuples of concepts in my discourse. I use “tuple” in the 
 
 - [psychology: general - differential - age psychology](31_psychology_en.md)
 - [eight levels - two basic scales](31_psychology_en.md)
-- temperament - character - observable scales - warming-up curve
-- four warming-ups - four temperaments
-- one - two - three temperaments
-- laughter - tears
-- humor - sarcasm
+- [temperament - character - observable scales - warming-up curve](37_warming_up_en.md)
+- [four warming-ups - four temperaments](37_warming_up_en.md)
+- [one - two - three temperaments](37_warming_up_en.md)
+- [laughter - tears](36_laughter_tears_procrastination_en.md)
+- [humor - sarcasm](36_laughter_tears_procrastination_en.md)
 - [encodings: small - medium - large](34_encodings_en.md)
 - [ear - eye - hand - smell - taste](34_encodings_en.md)
 - [text - picture - scheme](34_encodings_en.md)

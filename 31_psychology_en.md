@@ -29,7 +29,10 @@ For this we use three models:
 Read more:
 
 - [Warming-Up - Encodings - Levels](06_short_glossary_en.md)
+- [Warming-Up](37_warming_up_en.md)
 - [Encodings](34_encodings_en.md)
+- [Temperament](35_temperament_en.md)
+- [Laughter, tears, procrastination](36_laughter_tears_procrastination_en.md)
 - [One key that opens five doors](22_one_key_five_domains_en.md)
 
 ## Age Psychology
