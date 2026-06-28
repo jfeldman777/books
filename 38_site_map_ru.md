@@ -43,6 +43,7 @@
 35. [Темперамент](35_temperament_ru.md)
 36. [Смех, слезы, прокрастинация](36_laughter_tears_procrastination_ru.md)
 37. [Разогрев](37_warming_up_ru.md)
+38. [Темы, еще не вошедшие в сайт](39_future_topics_ru.md)
 
 ## Главные входы
 
@@ -59,6 +60,10 @@
 
 - [Sponsr](https://sponsr.ru/jfeldman/)
 - [Patreon](https://patreon.com/c/jacobfeldman)
+
+## Что еще не вошло в сайт
+
+- [Темы, еще не вошедшие в сайт](39_future_topics_ru.md)
 
 ## Основная постановка
 

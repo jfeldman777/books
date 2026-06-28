@@ -43,6 +43,7 @@ If the task is to inspect every page, it is easiest to go through this list from
 35. [Temperament](35_temperament_en.md)
 36. [Laughter, tears, procrastination](36_laughter_tears_procrastination_en.md)
 37. [Warming-up](37_warming_up_en.md)
+38. [Topics not yet included on the site](39_future_topics_en.md)
 
 ## Main Entrances
 
@@ -59,6 +60,10 @@ Fresh materials that have not yet entered the canon and are not yet presented on
 
 - [Patreon](https://patreon.com/c/jacobfeldman)
 - [Sponsr](https://sponsr.ru/jfeldman/)
+
+## What Is Not Yet on the Site
+
+- [Topics not yet included on the site](39_future_topics_en.md)
 
 ## Basic Formulation
 
