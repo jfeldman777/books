@@ -36,9 +36,9 @@ A philosophical situation contains two sides. Repetition is possible, but order 
 
 |  | things | person | group |
 | --- | --- | --- | --- |
-| things | textbook definition | Confucius | Socrates |
-| person | Confucius | late Wittgenstein | Camus |
-| group | Socrates | Camus | Russell |
+| things | textbook definition | Socrates | Confucius |
+| person | Socrates | late Wittgenstein | Camus |
+| group | Confucius | Camus | Russell |
 
 Thus the six definitions are not merely a random list. They form a justified tuple.
 

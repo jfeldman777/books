@@ -11,7 +11,7 @@
 3. [Карта дискурса: ряды понятий](03_discourse_map_ru.md)
 4. [Модель человека, задачи и сообщества](04_three_main_lines_ru.md)
 5. [А теперь сюрприз](05_surprise_ru.md)
-6. [Краткий словарь](06_short_glossary_ru.md)
+6. [Краткий словарь](06_short_glossary_ru.md) · [Расширенный викисловарь](https://jfeldman777.github.io/books/glossary.html)
 7. [Дискурс, экскурс, космос](07_discourse_excursus_cosmos_ru.md)
 8. [Восемь правил дискуссии](08_eight_rules_discussion_ru.md)
 9. [Шесть определений философии](09_six_definitions_philosophy_ru.md)
